@@ -46,7 +46,20 @@ const beats = [
     audio: "assets/beats/RAP ESTILO KIRY KURU.mp3",
     cover: "assets/logo2.png",
     tag: "CLANDESTINO"
-  }
+    },
+  
+     {
+    id: 4,
+    title: "TONY MONTANA TYPE BEAT",
+    genre: "Detroit",
+    bpm: 97,
+
+    price: "Consultar precio",
+    audio: "assets/beats/TONY MONTANA TYPE BEAT.mp3",
+    cover: "assets/logo2.png",
+    tag: "SENTIMIENTO"
+    },
+
 ];
 
 const beatGrid = document.getElementById("beatGrid");

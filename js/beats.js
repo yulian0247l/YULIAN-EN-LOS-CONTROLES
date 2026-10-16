@@ -60,6 +60,18 @@ const beats = [
     tag: "SENTIMIENTO"
     },
 
+    {
+    id: 5,
+    title: "DETROIT OSCURO",
+    genre: "Detroit",
+    bpm: 102,
+
+    price: "Consultar precio",
+    audio: "assets/beats/TRAP OSCURO1.mp3",
+    cover: "assets/logo2.png",
+    tag: "SENTIMIENTO"
+    },
+
 ];
 
 const beatGrid = document.getElementById("beatGrid");

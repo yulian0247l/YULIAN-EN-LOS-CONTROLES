@@ -84,6 +84,18 @@ const beats = [
     tag: "SAOCO"
     },
 
+    {
+    id: 7,
+    title: "Rap CRIMINAL",
+    genre: "Rap",
+    bpm: 97,
+
+    price: "Consultar precio",
+    audio: "assets/beats/RAP CRIMINAL.mp3",
+    cover: "assets/logo2.png",
+    tag: "CLANDESTINO"
+    },
+
 ];
 
 const beatGrid = document.getElementById("beatGrid");

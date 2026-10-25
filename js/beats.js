@@ -71,6 +71,18 @@ const beats = [
     cover: "assets/logo2.png",
     tag: "SENTIMIENTO"
     },
+  
+    {
+    id: 6,
+    title: "DEMBOW CON SAOCO",
+    genre: "Dembow",
+    bpm: 110,
+
+    price: "Consultar precio",
+    audio: "assets/beats/DEMBOW LATICA.mp3",
+    cover: "assets/logo2.png",
+    tag: "SAOCO"
+    },
 
 ];
 

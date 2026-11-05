@@ -96,6 +96,18 @@ const beats = [
     tag: "CLANDESTINO"
     },
 
+      {
+    id: 8,
+    title: "DETROIT TYPE Beat Need Me",
+    genre: "Detroit",
+    bpm: 97,
+
+    price: "Consultar precio",
+    audio: "assets/beats/DETROIT MALOS LOS 2 FINAL.mp3",
+    cover: "assets/logo2.png",
+    tag: "SENTIMIENTO"
+    },
+
 ];
 
 const beatGrid = document.getElementById("beatGrid");
